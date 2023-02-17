@@ -1,11 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Long</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">, I'm Long</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&width=435&lines=%3E+Welcome+to+my+profile" alt="Title"></img>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p> <img src="https://komarev.com/ghpvc/?username=llong2195&label=Profile%20views&color=0e75b6&style=flat" alt="llong2195" /> </p>
 </div>
+
+
+<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="20%" align="right"/>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
+- :credit_card: My full name is **Nguyen Duy Long**
+- :school: I'm currently student at **EPU**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Ha Noi, Viet Nam**
 
 <h2 align="center">Technologies and Tools</h2>
 <div align=center>
