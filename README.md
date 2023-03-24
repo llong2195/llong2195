@@ -14,7 +14,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Nguyen Duy Long**
-- :school: I'm currently student at **EPU**
+- :school: I'm currently student at **Electric Power University: EPU**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ha Noi, Viet Nam**
 
