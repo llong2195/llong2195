@@ -1,65 +1,102 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">, I'm Long</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p> <img src="https://komarev.com/ghpvc/?username=llong2195&label=Profile%20views&color=0e75b6&style=flat" alt="llong2195" /> </p>
-</div>
+<a href="https://komarev.com/ghpvc/?username=llong2195">
+  <img align="right" src="https://komarev.com/ghpvc/?username=llong2195&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://llong2195.com">Long</a></b>
+        </samp>
+</h3>
 
-- :credit_card: My full name is **Nguyen Duy Long**
-- :school: I'm currently student at **Electric Power University - EPU**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ha Noi, Viet Nam**
 
-<h2 align="center">Technologies and Tools</h2>
-<div align=center>
-<p>
-     <p>  </p>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /> 
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack web application developer from <b>VietNam</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
-</div>
-
-<br>
-<h2 align="center">GitHub Stats</h2>
-<br>
-<div align=center>
-  <a href="#">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llong2195&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<!--  
+<p align="center">
+ <a href="https://llong2195.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="llong2195" />
+ </a>
+ <a href="https://linkedin.com/in/llong2195" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="llong2195"/>
+ </a>
+ <a href="https://twitter.com/llong2195" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/llong2195" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="llong2195" />
+ </a> 
+ <a href="https://facebook.com/llong2195" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="llong2195"  />
   </a>
-  <a href="#">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=llong2195&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+</p>
+<br />  -->
 
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/llong2195/llong2195/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Dotnet](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512BD4)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)
+![Nodejs](https://img.shields.io/badge/nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+![React](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/react_Native-20232A?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&labelColor=black&logo=shopify&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![Postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
+![Mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/llong2195">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=llong2195&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/llong2195">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llong2195&theme=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/llong2195"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=llong2195&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/llong2195"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=llong2195&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![llong's Graph](https://github-readme-activity-graph.vercel.app/graph?username=llong2195&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
